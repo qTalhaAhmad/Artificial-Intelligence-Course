@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73612007-f461-4551-a52e-f641dd62fda3" name="Changes" comment="Data Read/Plot and KMeans Implementation">
-      <change afterPath="$PROJECT_DIR$/Astar_BFS_rBFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KMeans_Implementation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_read_plot.py" afterDir="false" />
+    <list default="true" id="73612007-f461-4551-a52e-f641dd62fda3" name="Changes" comment="update repo">
+      <change afterPath="$PROJECT_DIR$/BFS_UCS_DFS_IDS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653029352239</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update repo">
+      <created>1653030097769</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653030097769</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,6 +195,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="A* BFS rBFS" />
     <MESSAGE value="Data Read/Plot and KMeans Implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data Read/Plot and KMeans Implementation" />
+    <MESSAGE value="update repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="update repo" />
   </component>
 </project>
