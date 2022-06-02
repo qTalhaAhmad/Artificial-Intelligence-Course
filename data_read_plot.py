@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-df = pd.read_csv("dataset.csv")
+df = pd.read_csv("dataset_kmeans.csv")
 print(df)
 
 x = np.array(df['Annual_Income_(k$)'])

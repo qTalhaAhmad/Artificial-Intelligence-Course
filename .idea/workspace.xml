@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73612007-f461-4551-a52e-f641dd62fda3" name="Changes" comment="update repo">
-      <change afterPath="$PROJECT_DIR$/BFS_UCS_DFS_IDS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ann_implementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset_churn_modelling.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset_kmeans.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KMeans_Implementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/KMeans_Implementation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_read_plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_read_plot.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,14 +44,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
   <component name="RunManager" selected="Python.Astar_BFS_rBFS">
     <configuration name="Astar_BFS_rBFS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -178,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653030097769</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update repo">
+      <created>1653030417247</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653030417247</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +203,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="A* BFS rBFS" />
     <MESSAGE value="Data Read/Plot and KMeans Implementation" />
     <MESSAGE value="update repo" />
